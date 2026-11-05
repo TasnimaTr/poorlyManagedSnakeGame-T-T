@@ -1,2 +1,2 @@
 # poorlyManagedSnakeGame-T-T
-2 years ago i was tryna create a game with the only knowladge i have, which was actually not enough to make such an old simple game but with AI help by showing me how to find the cordinations of pic i made it, its indeed poorly managed and got a lot of bugs but still.
+Two years ago, I tried building a simple game with limited knowledge. Although the code was messy and buggy, the entire concept was solely mine—I only used AI to help calculate image coordinates to bridge my skill gaps.
