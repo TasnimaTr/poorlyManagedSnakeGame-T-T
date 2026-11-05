@@ -1,0 +1,89 @@
+.key{
+    width: 100px;
+    height: auto;
+    
+}
+#se{
+    width: 45px;
+    display: none;
+}
+body{
+    background: url("square.gif") repeat  ;
+    background-size: 43px;
+    
+}
+#fr{
+    position: absolute;
+    top:0 ;
+    left: 0;
+    width: 50px;
+    display: none;
+}
+#sn{
+    width: 80px;
+    position: absolute;
+    top:0 ;
+    left: 0;
+}
+figure{
+    text-align: center;
+}
+#score{
+    font-size: 100px;
+    text-align: center;
+}
+#fig{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    gap: 2px;
+
+}
+.key:active{
+    border:10px solid red;
+}
+#ap{
+    width: 30px;
+    /*display: block;
+    margin-left: auto;
+    margin-right: auto;************relative*****/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/*#cn{
+    text-align: center;
+    
+
+}*/
+#sn{
+   /*
+    display: block;
+    margin-left: auto;
+    margin-right: auto;********************RELATIVE*********/
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#up{
+    position: fixed;
+    bottom: 100px;
+    
+}/*
+#left{
+    position: fixed;
+    bottom: 25px;
+    left: 536px;
+}
+#right{
+    position: fixed;
+    bottom: 25px;
+    left: 636px;
+}
+#down{
+    position: fixed;
+    bottom: 0;
+}
